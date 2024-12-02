@@ -6,4 +6,4 @@ services:
     startCommand: "npm start"
     envVars:
       - key: FRONTEND_URL
-        value: "https://<tu-dominio-del-frontend>.onrender.com"
+        value: "https://https://chat-sapito-2.onrender.com/.com"
