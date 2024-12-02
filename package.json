@@ -1,0 +1,24 @@
+{
+  "name": "whasapp-peruano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0",
+    "socket.io": "^4.8.1",
+    "whasapp-peruano": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

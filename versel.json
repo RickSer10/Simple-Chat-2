@@ -1,0 +1,6 @@
+{
+    "projects": {
+      "client": "./client",
+      "server": "./server"
+    }
+}
