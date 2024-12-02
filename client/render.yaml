@@ -6,4 +6,4 @@ services:
     startCommand: "serve -s build"
     envVars:
       - key: REACT_APP_BACKEND_URL
-        value: "https://<tu-dominio-del-backend>.onrender.com"
+        value: "https://chat-backend-go8y.onrender.com"
